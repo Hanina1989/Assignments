@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace Assign8
+{
 public class Assignment : MonoBehaviour
 {
    
@@ -27,4 +29,5 @@ public class Assignment : MonoBehaviour
     }
 
    
+}
 }
